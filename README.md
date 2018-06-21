@@ -1,3 +1,3 @@
-# Anime berbasi Python
+# Anime berbasis Python
 
 Ini adalah project web anime yang berbasis Python.
